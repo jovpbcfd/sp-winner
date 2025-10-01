@@ -6,7 +6,7 @@ export default function Home() {
 		<div>
 			<div>
 				<Image
-					src="/img/banner.png"
+					src="/img/sp-main-bannerl.jpg"
 					priority
 					width={1444}
 					height={444}
