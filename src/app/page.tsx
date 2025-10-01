@@ -14,7 +14,7 @@ export default function Home() {
 					className="w-full h-auto"
 				/>
 			</div>
-			<div className="bg-[url(/img/hero_bg.png)] bg-cover bg-no-repeat py-5 md:py-10">
+			<div className="bg-[url(/img/hero_bg.png)] bg-cover bg-no-repeat pt-5 md:pt-10">
 				<div className="max-w-[1230px] mx-auto text-balance text-center mb-2 md:mb-5">
 					<h1 className="md:text-3xl font-semibold text-[#ffffff]">
 						<span className="text-[#ffcb8d] font-extrabold">TOP 50:</span>{" "}
@@ -71,7 +71,7 @@ export default function Home() {
 					</div>
 				</div>
 
-				<div className="bg-[url(/img/footer_bg.png)] bg-cover bg-no-repeat">
+				<div className="bg-[url(/img/footer_bg_v2.png)] bg-cover bg-no-repeat">
 					<div className="max-w-[800px] mx-auto text-pretty p-2 md:py-10">
 						<p className="text-[#ffcb8d] font-extrabold md:text-2xl md:py-5">
 							Terms & Conditions:
