@@ -35,8 +35,8 @@ export default function Home() {
 						<Image
 							src="/img/RANKING_AND_PRIZE.png"
 							width={800}
-							height={1286}
-							className="w-auto h-auto mx-auto"
+							height={1300}
+							className="w-auto h-auto mx-auto md:w-[800px]"
 							alt="Ranking and prize"
 						/>
 					</div>
