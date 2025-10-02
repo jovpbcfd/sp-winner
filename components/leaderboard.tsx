@@ -72,7 +72,7 @@ export default function Leaderboard() {
 								<div className="p-1 md:p-3 bg-[#E85300] h-6 w-6 md:h-[40px] md:w-[50px] rounded-full flex items-center justify-center">
 									<span className="text-xs md:text-base">{item.rank}</span>
 								</div>
-								<span className="md:text-2xl text-[#FFCB8D] font-bold md:ml-3">
+								<span className="ml-8 md:text-2xl text-[#FFCB8D] font-bold md:ml-9">
 									{item.user}
 								</span>
 							</div>
