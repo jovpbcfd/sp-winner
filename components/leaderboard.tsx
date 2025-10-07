@@ -63,7 +63,7 @@ export default function Leaderboard() {
 										className="h-auto w-4 md:w-[31px]"
 									/>
 								</div>
-								<span className="px-2 w-[60%] text-center md:text-2xl text-[#FFCB8D] font-bold">
+								<span className="px-2 w-[60%] text-center md:pl-0 md:text-2xl text-[#FFCB8D] font-bold">
 									{item.rank}
 								</span>
 							</div>
